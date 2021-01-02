@@ -18,6 +18,10 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 - Be sure to create tables in the correct order to handle foreign keys.
 - Import each CSV file into the corresponding SQL table. Note be sure to import the data in the same order that the tables were created and account for the headers when importing to avoid errors.
 
+![image](https://user-images.githubusercontent.com/69765842/103467720-caff8380-4d1f-11eb-8b92-f77290917279.png)
+
+![image](https://user-images.githubusercontent.com/69765842/103467722-d18dfb00-4d1f-11eb-8ec9-a09b46ddf652.png)
+
 ## Data Analysis
 Once you have a complete database, do the following:
 - List the following details of each employee: employee number, last name, first name, sex, and salary.
@@ -38,5 +42,6 @@ Generate a visualization of the data by:
 
 - Create a bar chart of average salary by title.
 
+![image](https://user-images.githubusercontent.com/69765842/103467664-575d7680-4d1f-11eb-882b-4f87a30b3941.png)
 
 
