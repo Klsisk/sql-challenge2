@@ -33,6 +33,10 @@ Once you have a complete database, do the following:
 - List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 - In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
+![image](https://user-images.githubusercontent.com/69765842/103467778-76a8d380-4d20-11eb-940f-79de292bf076.png)
+
+![image](https://user-images.githubusercontent.com/69765842/103467781-7d374b00-4d20-11eb-8a1f-b56bbef7f458.png)
+
 ## Bonus
 Generate a visualization of the data by:
 - Importing the SQL database into Pandas.
