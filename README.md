@@ -10,6 +10,8 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 ## Data Modeling
 - Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like http://www.quickdatabasediagrams.com.
 
+![image](https://user-images.githubusercontent.com/69765842/103467623-f03fc200-4d1e-11eb-9821-6cef693d36e2.png)
+
 ## Data Engineering
 - Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
 - For the primary keys check to see if the column is unique, otherwise create a composite key. Which takes to primary keys in order to uniquely identify a row.
@@ -31,5 +33,10 @@ Once you have a complete database, do the following:
 Generate a visualization of the data by:
 - Importing the SQL database into Pandas.
 - Create a histogram to visualize the most common salary ranges for employees.
+
+![image](https://user-images.githubusercontent.com/69765842/103467626-fb92ed80-4d1e-11eb-869e-e64dce79942a.png)
+
 - Create a bar chart of average salary by title.
+
+
 
